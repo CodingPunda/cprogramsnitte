@@ -1,4 +1,4 @@
-cprogramsnitte by Harshith Nayak
+cprogramsnitte 
 ==============
 
 Hello coder,
